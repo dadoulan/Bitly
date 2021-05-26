@@ -1,5 +1,7 @@
 # Bitly
 
+![bitly](https://github.com/shompoth/Bitly/blob/main/assets/screenshot-bitly.png)
+
 Ce projet est un clône de Bit.ly qui permet de raccourcir une URL.
 
 ## Crée avec
@@ -12,4 +14,3 @@ Ce projet est un clône de Bit.ly qui permet de raccourcir une URL.
 ```sh
 git clone https://github.com/shompoth/Bitly.git
 ```
-
